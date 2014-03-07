@@ -1,0 +1,13 @@
+tempfile.txt
+.DS_Store
+*.zip
+*.gz
+log/*.log
+log/*.log[0-9]
+assets/photoshop/
+assets/videos/
+
+#these videos I do want to track
+!assets/videos/tour_*.mp4
+
+
